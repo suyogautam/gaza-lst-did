@@ -1,0 +1,6 @@
+stratum,blocks,slope,p,unit
+built,107,0.05551485270928643,0.008,°C per destroyed-equivalent structure/ha
+tree,103,5.433706717416594,0.007,°C per unit relative NDVI loss
+crop,113,3.836795437298034,0.001,°C per unit relative NDVI loss
+bare,93,-0.22717341791287257,0.054,°C per destroyed-equivalent structure/ha
+mixed,119,0.43055598854420013,0.001,°C per destroyed-equivalent structure/ha
