@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-# extracted data: run the scripts in gee/ to produce it
-data/
-# UNOSAT raw files: download them yourself (see README)
-*.zip
-*.gdb/
